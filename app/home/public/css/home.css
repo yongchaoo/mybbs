@@ -1,0 +1,39 @@
+body{
+    margin-bottom: 120px;
+}
+
+.jumbotron-box{
+    text-align: center;
+    margin-top: 80px;
+    padding: 100px 60px;
+}
+
+/*signup*/
+
+.form-box{
+    margin-top: 50px;
+}
+.signup-box{
+    margin-top: 50px;
+}
+
+/*parts-header*/
+.part-nav{
+    margin-left: 0px;
+}
+
+.comments-header{
+    font-size: 20px;
+}
+/*forum*/
+.submit-btn-create{
+    margin-top: 20px;
+}
+
+.panel-title{
+    font-size: 20px;
+    padding: 10px;
+}
+.form-group{
+
+}
